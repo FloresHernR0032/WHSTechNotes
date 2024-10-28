@@ -13,3 +13,11 @@ This is a free week.
 English: A Visual Introduction to Python
 # October 4, 2024 
 This is a new thing for me and i feel like am learning new things to me 
+# OCtober 15, 2024 
+Coding teaches you to think logically
+Coding skills have become valuable across various industries
+Learning to code can help us break down complex problems into smaller, more manageable tasks, allowing us to find innovative solutions
+# October 18, 2024
+https://www.khanacademy.org/
+# October 28, 2024
+That it's impresive how technology it's going to fast and how the tachnology is doind humans work
