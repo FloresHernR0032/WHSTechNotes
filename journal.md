@@ -18,7 +18,7 @@ Coding teaches you to think logically
 Coding skills have become valuable across various industries
 Learning to code can help us break down complex problems into smaller, more manageable tasks, allowing us to find innovative solutions
 # October 18, 2024
-https://www.khanacademy.org/
+A job title is a label your company gives you, while a job position describes your responsibilities. 
 # October 25, 2024
 Zumi robot cars
 # October 28, 2024
