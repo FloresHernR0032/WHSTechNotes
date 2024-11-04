@@ -23,3 +23,12 @@ A job title is a label your company gives you, while a job position describes yo
 Zumi robot cars
 # October 28, 2024
 That it's impresive how technology it's going to fast and how the tachnology is doind humans work
+# November 1, 2024
+With support from the United States Agency for International Development (USAID), in 2021, the International
+Foundation for Electoral Systems (IFES) launched ElectionJudgments.org, a database for national election
+judgments from around the world. IFES has used this database to conduct an initial analysis of select judgments that
+involve the use of technology in elections by Election Management Bodies (EMBs). These cases show that with the
+constant evolution of technology and its use in elections, judges and judicial officials need to understand how
+technology is being used in voter and candidate registration, voter identification, the voting or counting process, and
+results tabulation and transmission, and re-assess both the conduct of proceedings and the availability of effective
+judicial orders and remedies. I
