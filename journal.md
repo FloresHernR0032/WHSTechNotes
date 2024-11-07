@@ -31,4 +31,6 @@ involve the use of technology in elections by Election Management Bodies (EMBs).
 constant evolution of technology and its use in elections, judges and judicial officials need to understand how
 technology is being used in voter and candidate registration, voter identification, the voting or counting process, and
 results tabulation and transmission, and re-assess both the conduct of proceedings and the availability of effective
-judicial orders and remedies. I
+judicial orders an
+# November 4, 2024
+if sensitive data falls into the wrong hands, it can lead to fraud, identity theft, or similar harms.
