@@ -41,3 +41,5 @@ Farmers no longer have to apply water, fertilizers, and pesticides uniformly acr
 That i like the way it's working and i will like to learn more
 My interest it's to lear alot of new tenicks
 To now how to use it because its kind of had if you dot now how to used it 
+# January 13, 2025
+Why The Once-Mighty Tech Career Is No Longer Safe,employers are prioritizing AI competencies over conventional tech skills.
