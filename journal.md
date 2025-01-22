@@ -43,5 +43,5 @@ My interest it's to lear alot of new tenicks
 To now how to use it because its kind of had if you dot now how to used it 
 # January 13, 2025
 Why The Once-Mighty Tech Career Is No Longer Safe,employers are prioritizing AI competencies over conventional tech skills.
-# January 13, 2025 
+# January 22, 2025 
 AI tools can process vast amounts of data in real time, providing businesses with deeper insights in a shorter time
