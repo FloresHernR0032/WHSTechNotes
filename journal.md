@@ -45,3 +45,10 @@ To now how to use it because its kind of had if you dot now how to used it
 Why The Once-Mighty Tech Career Is No Longer Safe,employers are prioritizing AI competencies over conventional tech skills.
 # January 22, 2025 
 AI tools can process vast amounts of data in real time, providing businesses with deeper insights in a shorter time
+# January 27, 2025
+|Name      | Car         |Mistake|
+|----------|-------------|------------|
+|jimmy     |Civic        |Drilled Hole|
+|Kayla     |Sierra       |Fixed Wrong |
+|Bart      |Corolla      |Left Stains |
+|harrison  |Suburau      |Left oil cap|
