@@ -52,3 +52,6 @@ AI tools can process vast amounts of data in real time, providing businesses wit
 |Kayla     |Sierra       |Fixed Wrong |
 |Bart      |Corolla      |Left Stains |
 |harrison  |Suburau      |Left oil cap|
+
+# February 03, 2025
+The crash late Wednesday of American Eagle Flight 5342 near Reagan National Airport has brought fresh attention to a technology known as a Traffic Alert and Collision Avoidance System, or TCAS, which was developed to prevent airplanes from colliding in midair after several tragic crashes.
