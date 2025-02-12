@@ -55,3 +55,10 @@ AI tools can process vast amounts of data in real time, providing businesses wit
 
 # February 03, 2025
 The crash late Wednesday of American Eagle Flight 5342 near Reagan National Airport has brought fresh attention to a technology known as a Traffic Alert and Collision Avoidance System, or TCAS, which was developed to prevent airplanes from colliding in midair after several tragic crashes.
+|Shape     |Color        |Count|
+|----------|-------------|------------|
+|Square    |Green        |7           |
+|Circle    |Yellow       |5           |
+|Hexagon   |Brown        |6           |
+|Triangle  |Purple       |4           |
+|Octagon   |Red          |3           |
