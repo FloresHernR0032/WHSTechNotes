@@ -62,3 +62,6 @@ The crash late Wednesday of American Eagle Flight 5342 near Reagan National Airp
 |Hexagon   |Brown        |6           |
 |Triangle  |Purple       |4           |
 |Octagon   |Red          |3           |
+Be Specific: Choose a particular skill, concept, or piece of knowledge you recently acquired. ...
+Relate to the Job: Connect your recent learning to the job you're applying for. ...
+Show Enthusiasm: Express genuine excitement about what you learned.
