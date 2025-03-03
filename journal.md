@@ -65,3 +65,11 @@ The crash late Wednesday of American Eagle Flight 5342 near Reagan National Airp
  # February 18, 2025 Be Specific: Choose a particular skill, concept, or piece of knowledge you recently acquired. ...
 Relate to the Job: Connect your recent learning to the job you're applying for. ...
 Show Enthusiasm: Express genuine excitement about what you learned.
+# March 03, 2025 Monday 
+|Name      |Power        |Challenge   |
+|----------|-------------|------------|
+|Zara      |             |            |
+|Aether    |             |            |
+|Thorne    |             |            |
+|Silver    |             |            |
+|Tangler   |             |            |
