@@ -84,9 +84,9 @@ Show Enthusiasm: Express genuine excitement about what you learned.
 # March 03, 2025 Monday 
 |Name      |Power        |Challenge   |
 |----------|-------------|------------|
-|Zara      |             |            |
-|Aether    |             |            |
-|Thorne    |             |            |
-|Silver    |             |            |
-|Tangler   |             |            |
+|Zara      |Telekenesis  |Secure Building|
+|Aether    |Weather Manipulation6|Prevent Assassination|
+|Thorne    |Invisibility |Underwater Rescue|
+|Silver    |Mind Control	|Retrieve Stolen Goods|       
+|Tangler   |Shapeshifting|Extract Prisoner|
 
