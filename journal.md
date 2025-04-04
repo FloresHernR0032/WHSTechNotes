@@ -89,7 +89,7 @@ Show Enthusiasm: Express genuine excitement about what you learned.
 |Thorne    |Invisibility |Underwater Rescue|
 |Silver    |Mind Control	|Retrieve Stolen Goods|       
 |Tangler   |Shapeshifting|Extract Prisoner|
-# March 24, 2025 Monday 
+# March 24, 2025 
 In an experiment that a) was bound to happen, b) might actually make us all look smarter and c) should probably also scare the daylights out of everyone, a successful CEO-turned-disruptor is running a $1 million March Madness bracket challenge that pits his AI programmers’ picks against those belonging to one of the world’s best-known sports gamblers.
 # March 31, 2025 
 How are you feeling right now—mentally, emotionally, and physically?
