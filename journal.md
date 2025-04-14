@@ -104,3 +104,5 @@ Who is someone you can talk to when you’re feeling overwhelmed? Why do you tru
 My parents.
 # April 07, 2025
 How do you think AI can help youThrough adaptive learning technologies, artificial intelligence can analyze a student's strengths, weaknesses, learning pace and preferences. study, prepare, or stay organized for tests like the STAAR? What would be the most useful feature of an AI tutor for you personally? Be honest—do you think you’d use it? Why or why not?  
+# April 14, 2025
+Florida is considering a full ban on student cell phone use during the school day and restrictions on social media access on school networks.
