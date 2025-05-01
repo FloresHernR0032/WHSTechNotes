@@ -106,3 +106,8 @@ My parents.
 How do you think AI can help youThrough adaptive learning technologies, artificial intelligence can analyze a student's strengths, weaknesses, learning pace and preferences. study, prepare, or stay organized for tests like the STAAR? What would be the most useful feature of an AI tutor for you personally? Be honest—do you think you’d use it? Why or why not?  
 # April 14, 2025
 Florida is considering a full ban on student cell phone use during the school day and restrictions on social media access on school networks.
+| Name   |Flavour  |Occasion      |price  |
+|:-------|---------|--------------|-------|
+|Sally   |Chocolate|graduation    | $35.00|
+|Michael |Vanilla  |Farewell party| $37.00|
+|Emma    |Carrot   |Birthday      | $39.00|
