@@ -106,9 +106,11 @@ My parents.
 How do you think AI can help youThrough adaptive learning technologies, artificial intelligence can analyze a student's strengths, weaknesses, learning pace and preferences. study, prepare, or stay organized for tests like the STAAR? What would be the most useful feature of an AI tutor for you personally? Be honest—do you think you’d use it? Why or why not?  
 # April 14, 2025
 Florida is considering a full ban on student cell phone use during the school day and restrictions on social media access on school networks.
-# April 28,2025
+# April 28, 2025
 | Name   |Flavour  |Occasion      |price  |
 |:-------|---------|--------------|-------|
 |Sally   |Chocolate|graduation    | $35.00|
 |Michael |Vanilla  |Farewell party| $37.00|
 |Emma    |Carrot   |Birthday      | $39.00|
+# May  05, 2025
+in terms of raw power, the gorilla wins every time. An adult male silverback can weigh more than 160kg and lift about a tonne without going to the gym every day. Their upper-body strength is shocking,00 men versus a gorilla is a thought experiment concerning a fight between one-hundred unarmed male humans and a silverback gorilla. 
