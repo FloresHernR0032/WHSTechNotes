@@ -114,3 +114,7 @@ Florida is considering a full ban on student cell phone use during the school da
 |Emma    |Carrot   |Birthday      | $39.00|
 # May  05, 2025
 in terms of raw power, the gorilla wins every time. An adult male silverback can weigh more than 160kg and lift about a tonne without going to the gym every day. Their upper-body strength is shocking,00 men versus a gorilla is a thought experiment concerning a fight between one-hundred unarmed male humans and a silverback gorilla. 
+# May 13, 2025
+Physical Safety: The Chromebook Challenge demonstrates how misuse of technology can directly endanger people, causing fires, releasing toxic fumes, and posing risks of burns and electrocution.
+Property Damage: These challenges can lead to the destruction of valuable school-owned Chromebooks and other devices, incurring repair costs and disrupting learning.
+Ethical Considerations: Engaging in such trends violates principles of responsible technology use, respect for school property, and concern for the safety of others. 
