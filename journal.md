@@ -118,3 +118,6 @@ in terms of raw power, the gorilla wins every time. An adult male silverback can
 Physical Safety: The Chromebook Challenge demonstrates how misuse of technology can directly endanger people, causing fires, releasing toxic fumes, and posing risks of burns and electrocution.
 Property Damage: These challenges can lead to the destruction of valuable school-owned Chromebooks and other devices, incurring repair costs and disrupting learning.
 Ethical Considerations: Engaging in such trends violates principles of responsible technology use, respect for school property, and concern for the safety of others. 
+# May 20, 2025
+Are you ready for summer? Write your response in your journal.
+Yes am exited to go to mexico.
